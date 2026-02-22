@@ -1,0 +1,12 @@
+# Dependencies
+.npm/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.idea/
